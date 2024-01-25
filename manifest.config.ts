@@ -38,7 +38,7 @@ export default defineManifest(async (env) => {
           linux: 'Alt+J',
           mac: 'Command+J',
         },
-        description: 'Open MultiTranslate app',
+        description: 'Open MyAwesomeApp app',
       },
     },
     side_panel: {

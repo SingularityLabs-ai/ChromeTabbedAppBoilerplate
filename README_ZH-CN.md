@@ -2,11 +2,11 @@
     <img src="./src/assets/icon.png" width="150">
 </p>
 
-<h1 align="center">MultiTranslate</h1>
+<h1 align="center">MyAwesomeApp</h1>
 
 <div align="center">
 
-### MultiTranslate 是款全能聊天机器人客户端
+### MyAwesomeApp 是款全能聊天机器人客户端
 
 [![作者][作者-image]][作者-url]
 [![许可证][许可证-image]][许可证-url]
@@ -19,8 +19,8 @@
 
 ### 安装
 
-<a href="https://chrome.google.com/webstore/detail"><img src="https://user-images.githubusercontent.com/64502893/231991498-8df6dd63-727c-41d0-916f-c90c15127de3.png" width="200" alt="获取 Chromium 版 MultiTranslate"></a>&nbsp;&nbsp;
-<a href="https://microsoftedge.microsoft.com/addons/detail/"><img src="https://user-images.githubusercontent.com/64502893/231991158-1b54f831-2fdc-43b6-bf9a-f894000e5aa8.png" width="160" alt="获取 Microsoft Edge 版 MultiTranslate"></a>
+<a href="https://chrome.google.com/webstore/detail"><img src="https://user-images.githubusercontent.com/64502893/231991498-8df6dd63-727c-41d0-916f-c90c15127de3.png" width="200" alt="获取 Chromium 版 MyAwesomeApp"></a>&nbsp;&nbsp;
+<a href="https://microsoftedge.microsoft.com/addons/detail/"><img src="https://user-images.githubusercontent.com/64502893/231991158-1b54f831-2fdc-43b6-bf9a-f894000e5aa8.png" width="160" alt="获取 Microsoft Edge 版 MyAwesomeApp"></a>
 
 ##
 
@@ -28,12 +28,12 @@
 
 [作者-image]: https://img.shields.io/badge/author-wong2-blue.svg
 [作者-url]: https://github.com/wong2
-[许可证-image]: https://img.shields.io/github/license/ishandutta2007/MultiTranslate?color=blue
-[许可证-url]: https://github.com/SingularityLabs-ai/MultiTranslate/blob/main/LICENSE
-[发布-image]: https://img.shields.io/github/v/release/ishandutta2007/MultiTranslate?color=blue
-[发布-url]: https://github.com/SingularityLabs-ai/MultiTranslate/releases/latest
-[最后提交-image]: https://img.shields.io/github/last-commit/ishandutta2007/MultiTranslate?label=last%20commit
-[最后提交-url]: https://github.com/SingularityLabs-ai/MultiTranslate/commits
+[许可证-image]: https://img.shields.io/github/license/ishandutta2007/MyAwesomeApp?color=blue
+[许可证-url]: https://github.com/SingularityLabs-ai/MyAwesomeApp/blob/main/LICENSE
+[发布-image]: https://img.shields.io/github/v/release/ishandutta2007/MyAwesomeApp?color=blue
+[发布-url]: https://github.com/SingularityLabs-ai/MyAwesomeApp/releases/latest
+[最后提交-image]: https://img.shields.io/github/last-commit/ishandutta2007/MyAwesomeApp?label=last%20commit
+[最后提交-url]: https://github.com/SingularityLabs-ai/MyAwesomeApp/commits
 
 </div>
 
@@ -72,7 +72,7 @@
 
 ## 🔧 手动安装
 
-- 从 [Releases](https://github.com/SingularityLabs-ai/MultiTranslate-mini/Releases) 下载 dfobejficjaelohpjceiicphofmmglop_0.0.11.zip
+- 从 [Releases](https://github.com/SingularityLabs-ai/MyAwesomeApp-mini/Releases) 下载 dfobejficjaelohpjceiicphofmmglop_0.0.11.zip
 - 解压文件
 - 在 Chrome/Edge 中进入扩展页面 (chrome://extensions 或 edge://extensions)
 - 启用开发者模式

@@ -2,11 +2,11 @@
     <img src="./src/assets/icon.png" width="150">
 </p>
 
-<h1 align="center">MultiTranslate</h1>
+<h1 align="center">MyAwesomeApp</h1>
 
 <div align="center">
 
-### MultiTranslate adalah klien chatbot
+### MyAwesomeApp adalah klien chatbot
 
 [![author][author-image]][author-url]
 [![license][license-image]][license-url]
@@ -19,8 +19,8 @@
     
 ### Instal
     
-<a href="https://chrome.google.com/webstore/detail"><img src="https://user-images.githubusercontent.com/64502893/231991498-8df6dd63-727c-41d0-916f-c90c15127de3.png" width="200" alt="Dapatkan MultiTranslate untuk Chromium"></a>
-<a href="https://microsoftedge.microsoft.com/addons/detail/"><img src="https://user-images.githubusercontent.com/64502893/231991158-1b54f831-2fdc-43b6-bf9a-f894000e5aa8.png" width="160" alt="Dapatkan MultiTranslate untuk Microsoft Edge"></a>
+<a href="https://chrome.google.com/webstore/detail"><img src="https://user-images.githubusercontent.com/64502893/231991498-8df6dd63-727c-41d0-916f-c90c15127de3.png" width="200" alt="Dapatkan MyAwesomeApp untuk Chromium"></a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/"><img src="https://user-images.githubusercontent.com/64502893/231991158-1b54f831-2fdc-43b6-bf9a-f894000e5aa8.png" width="160" alt="Dapatkan MyAwesomeApp untuk Microsoft Edge"></a>
     
 ##
 
@@ -28,12 +28,12 @@
     
 [author-image]: https://img.shields.io/badge/author-wong2-blue.svg
 [author-url]: https://github.com/wong2
-[license-image]: https://img.shields.io/github/license/ishandutta2007/MultiTranslate?color=blue
-[license-url]: https://github.com/SingularityLabs-ai/MultiTranslate/blob/main/LICENSE
-[release-image]: https://img.shields.io/github/v/release/ishandutta2007/MultiTranslate?color=blue
-[release-url]: https://github.com/SingularityLabs-ai/MultiTranslate/releases/latest
-[last-commit-image]: https://img.shields.io/github/last-commit/ishandutta2007/MultiTranslate?label=last%20commit
-[last-commit-url]: https://github.com/SingularityLabs-ai/MultiTranslate/commits
+[license-image]: https://img.shields.io/github/license/ishandutta2007/MyAwesomeApp?color=blue
+[license-url]: https://github.com/SingularityLabs-ai/MyAwesomeApp/blob/main/LICENSE
+[release-image]: https://img.shields.io/github/v/release/ishandutta2007/MyAwesomeApp?color=blue
+[release-url]: https://github.com/SingularityLabs-ai/MyAwesomeApp/releases/latest
+[last-commit-image]: https://img.shields.io/github/last-commit/ishandutta2007/MyAwesomeApp?label=last%20commit
+[last-commit-url]: https://github.com/SingularityLabs-ai/MyAwesomeApp/commits
 
 </div>
 
@@ -72,7 +72,7 @@
 
 ## 🔧 Instalasi Manual
 
-- Unduh dfobejficjaelohpjceiicphofmmglop_0.0.11.zip dari [Release](https://github.com/SingularityLabs-ai/MultiTranslate-mini/Releases)
+- Unduh dfobejficjaelohpjceiicphofmmglop_0.0.11.zip dari [Release](https://github.com/SingularityLabs-ai/MyAwesomeApp-mini/Releases)
 - Ekstrak file
 - Di Chrome/Edge, buka halaman ekstensi (chrome://extensions atau edge://extensions)
 - Aktifkan Mode Pengembang
