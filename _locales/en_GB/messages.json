@@ -1,8 +1,8 @@
 {
     "appName": {
-        "message": "MyAwesomeApp: Translate All locales at once"
+        "message": "MyAwesomeApp: my app rocks"
     },
     "appDesc": {
-        "message": "Translate to any language in one click"
+        "message": "This app does some rocking stuff"
     }
 }

@@ -1,12 +1,12 @@
 // vite.config.ts
 import path from "path";
-import { defineConfig } from "file:///Users/ishandutta2007/Documents/Projects/SGLT/multitranslate/node_modules/vite/dist/node/index.js";
-import react from "file:///Users/ishandutta2007/Documents/Projects/SGLT/multitranslate/node_modules/@vitejs/plugin-react/dist/index.mjs";
-import { crx } from "file:///Users/ishandutta2007/Documents/Projects/SGLT/multitranslate/node_modules/@crxjs/vite-plugin/dist/index.mjs";
-import tsconfigPaths from "file:///Users/ishandutta2007/Documents/Projects/SGLT/multitranslate/node_modules/vite-tsconfig-paths/dist/index.mjs";
+import { defineConfig } from "file:///Users/ishandutta2007/Documents/Projects/SGLT/myawesomeapp/node_modules/vite/dist/node/index.js";
+import react from "file:///Users/ishandutta2007/Documents/Projects/SGLT/myawesomeapp/node_modules/@vitejs/plugin-react/dist/index.mjs";
+import { crx } from "file:///Users/ishandutta2007/Documents/Projects/SGLT/myawesomeapp/node_modules/@crxjs/vite-plugin/dist/index.mjs";
+import tsconfigPaths from "file:///Users/ishandutta2007/Documents/Projects/SGLT/myawesomeapp/node_modules/vite-tsconfig-paths/dist/index.mjs";
 
 // manifest.config.ts
-import { defineManifest } from "file:///Users/ishandutta2007/Documents/Projects/SGLT/multitranslate/node_modules/@crxjs/vite-plugin/dist/index.mjs";
+import { defineManifest } from "file:///Users/ishandutta2007/Documents/Projects/SGLT/myawesomeapp/node_modules/@crxjs/vite-plugin/dist/index.mjs";
 var manifest_config_default = defineManifest(async (env) => {
   return {
     manifest_version: 3,
@@ -86,7 +86,7 @@ var manifest_config_default = defineManifest(async (env) => {
 });
 
 // vite.config.ts
-import { viteZip } from "file:///Users/ishandutta2007/Documents/Projects/SGLT/multitranslate/node_modules/vite-plugin-zip-file/lib/index.cjs";
+import { viteZip } from "file:///Users/ishandutta2007/Documents/Projects/SGLT/myawesomeapp/node_modules/vite-plugin-zip-file/lib/index.cjs";
 var vite_config_default = defineConfig({
   plugins: [
     tsconfigPaths(),
